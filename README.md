@@ -6,6 +6,4 @@ Currently doing research at Columbia's Creative Machines Lab on whether a stable
 
 Interests: LLM post-training and evaluation, Reinforcement Learning, Graph ML, Robotics.
 
-Publications: ACM ICAIF 2025 (first author, LLM bias evaluation and mitigation), IEEE BioCAS 2023 (spiking CNN for seizure detection). Two patents filed.
-
 [Google Scholar](https://scholar.google.com/citations?user=z0KlDvYAAAAJ) | [LinkedIn](https://www.linkedin.com/in/shreshthmehrotra/) | sm6167@columbia.edu
