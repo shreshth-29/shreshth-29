@@ -1,6 +1,6 @@
 # Shreshth Mehrotra
 
-MS in Computer Science (ML track) at Columbia, graduating Dec 2027. Before this I spent two years as a data scientist at Mastercard's AI Garage, working on LLM Fairness Evaluation, RAG Fairness, Temporal GNNs for transaction graphs and ML for transaction/payment/fraud models.
+Currently, an MS CS (ML track) student at Columbia. Before this I spent two years as a data scientist at Mastercard's AI Garage, working on LLM Fairness Evaluation, RAG Fairness, Temporal GNNs for transaction graphs and ML for transaction/payment/fraud models.
 
 Currently doing research at Columbia's Creative Machines Lab on whether a stable "self" emerges in neural networks under continual learning.
 
